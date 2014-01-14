@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.exoplatform.platform</groupId>
   <artifactId>platform</artifactId>
-  <version>4.0.x-plf-translation-SNAPSHOT</version>
+  <version>4.0.x-plf-translation-jipt-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo Platform</name>
   <description>Parent POM for platform projects.</description>
@@ -52,14 +52,14 @@
     <org.gatein.sso.version>1.3.1.Final</org.gatein.sso.version>
     <org.gatein.portal.version>3.5.9.Final-SNAPSHOT</org.gatein.portal.version>
     <!-- Platform Project Dependencies -->
-    <org.exoplatform.commons.version>4.0.x-commons-translation-SNAPSHOT</org.exoplatform.commons.version>
-    <org.exoplatform.ecms.version>4.0.x-ecms-translation-SNAPSHOT</org.exoplatform.ecms.version>
-    <org.exoplatform.social.version>4.0.x-soc-translation-SNAPSHOT</org.exoplatform.social.version>
-    <org.exoplatform.forum.version>4.0.x-forum-translation-SNAPSHOT</org.exoplatform.forum.version>
-    <org.exoplatform.wiki.version>4.0.x-wiki-translation-SNAPSHOT</org.exoplatform.wiki.version>
-    <org.exoplatform.calendar.version>4.0.x-cal-translation-SNAPSHOT</org.exoplatform.calendar.version>
-    <org.exoplatform.integ.version>4.0.x-integ-translation-SNAPSHOT</org.exoplatform.integ.version>
-    <org.exoplatform.platform-ui.version>4.0.x-plfui-translation-SNAPSHOT</org.exoplatform.platform-ui.version>
+    <org.exoplatform.commons.version>4.0.x-commons-translation-jipt-SNAPSHOT</org.exoplatform.commons.version>
+    <org.exoplatform.ecms.version>4.0.x-ecms-translation-jipt-SNAPSHOT</org.exoplatform.ecms.version>
+    <org.exoplatform.social.version>4.0.x-soc-translation-jipt-SNAPSHOT</org.exoplatform.social.version>
+    <org.exoplatform.forum.version>4.0.x-forum-translation-jipt-SNAPSHOT</org.exoplatform.forum.version>
+    <org.exoplatform.wiki.version>4.0.x-wiki-translation-jipt-SNAPSHOT</org.exoplatform.wiki.version>
+    <org.exoplatform.calendar.version>4.0.x-cal-translation-jipt-SNAPSHOT</org.exoplatform.calendar.version>
+    <org.exoplatform.integ.version>4.0.x-integ-translation-jipt-SNAPSHOT</org.exoplatform.integ.version>
+    <org.exoplatform.platform-ui.version>4.0.x-plfui-translation-jipt-SNAPSHOT</org.exoplatform.platform-ui.version>
   </properties>
   <dependencyManagement>
     <!-- ### NEVER CHANGE THIS ORDER OF DEPMGT ### -->
