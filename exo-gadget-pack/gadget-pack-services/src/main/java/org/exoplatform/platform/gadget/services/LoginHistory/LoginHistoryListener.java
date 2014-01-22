@@ -16,10 +16,16 @@
  ***************************************************************************/
 package org.exoplatform.platform.gadget.services.LoginHistory;
 
+import org.exoplatform.container.ExoContainer;
+import org.exoplatform.container.PortalContainer;
+import org.exoplatform.portal.Constants;
 import org.exoplatform.services.listener.Event;
 import org.exoplatform.services.listener.Listener;
 import org.exoplatform.services.log.ExoLogger;
 import org.exoplatform.services.log.Log;
+import org.exoplatform.services.organization.OrganizationService;
+import org.exoplatform.services.organization.UserProfile;
+import org.exoplatform.services.resources.LocaleContextInfo;
 import org.exoplatform.services.security.ConversationRegistry;
 import org.exoplatform.services.security.ConversationState;
 
@@ -50,6 +56,24 @@ public class LoginHistoryListener extends Listener<ConversationRegistry, Convers
 				loginHistoryService.addLoginHistoryEntry(userId, now);
 				LOG.info("User " + userId + " logged in.");
 			}
+			
+			/**
+			 * JIPT feature sets default pseudo-language to Albanian "sq"
+			 */
+			OrganizationService svc = (OrganizationService) PortalContainer.getInstance().getComponentInstanceOfType(OrganizationService.class);
+            // Don't rely on UserProfileLifecycle loaded UserProfile when doing
+            // an update to avoid a potential overwrite of other changes
+            UserProfile userProfile = svc.getUserProfileHandler().findUserProfileByName(userId);
+            if (userProfile != null && userProfile.getUserInfoMap() != null) {
+                // Only save if user's locale has not been set
+                String currLocale = userProfile.getUserInfoMap().get(Constants.USER_LANGUAGE);
+                if (currLocale == null || currLocale.trim().equals("") || !currLocale.equals("sq")) {
+                	//set pseudo-language to Albanian "sq"
+                    userProfile.getUserInfoMap().put(Constants.USER_LANGUAGE,"sq");
+                    svc.getUserProfileHandler().saveUserProfile(userProfile, false);
+                }
+            }
+			
 		} catch (Exception e) {
 			LOG.debug("Error while logging the login of user '" + userId + "': " + e.getMessage(), e);
 		}
