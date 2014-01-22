@@ -29,8 +29,15 @@
     encoding: ISO-8859-1 
   -->
 
+  <locale-config>  
   <locale-config>
-    <locale>en</locale>
+    <locale>sq</locale>
+    <output-encoding>UTF-8</output-encoding>
+    <input-encoding>UTF-8</input-encoding>
+    <description>Default configuration for the Albanian locale</description>
+  </locale-config>  
+
+  <locale>en</locale>
     <output-encoding>UTF-8</output-encoding>
     <input-encoding>UTF-8</input-encoding>
     <description>Default configuration for english locale</description>
@@ -140,6 +147,5 @@
     <input-encoding>UTF-8</input-encoding>
     <description>Default configuration for the Norwegian locale</description>
   </locale-config>
-  
 </locales-config>
 

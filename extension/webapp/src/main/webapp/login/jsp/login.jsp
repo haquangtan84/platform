@@ -457,6 +457,12 @@
 					<button class="button" href="#" onclick="login();"><%=res.getString("portal.login.Signin")%></button>
 				</div>
 
+<script type="text/javascript">
+  var _jipt = [];
+  _jipt.push(['project', 'exo-platform-40']);
+</script>
+<script type="text/javascript" src="//cdn.crowdin.net/jipt/jipt.js"></script>
+
                 <script type='text/javascript'>
 
 
