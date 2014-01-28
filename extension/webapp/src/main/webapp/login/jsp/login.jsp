@@ -25,6 +25,7 @@
 <%@ page import="org.exoplatform.services.resources.ResourceBundleService"%>
 <%@ page import="java.util.ResourceBundle"%>
 <%@ page import="org.gatein.common.text.EntityEncoder"%>
+<%@ page import="java.util.Locale"%>    
 <%@ page language="java" %>
 <%
   String contextPath = request.getContextPath() ;
@@ -39,7 +40,8 @@
 
   ResourceBundleService service = (ResourceBundleService) PortalContainer.getCurrentInstance(session.getServletContext())
   														.getComponentInstanceOfType(ResourceBundleService.class);
-  ResourceBundle res = service.getResourceBundle(service.getSharedResourceBundleNames(), request.getLocale()) ;
+  Locale albanianLocale = new Locale("sq");
+  ResourceBundle res = service.getResourceBundle(service.getSharedResourceBundleNames(), albanianLocale) ;
   
   Cookie cookie = new Cookie(org.exoplatform.web.login.LoginServlet.COOKIE_NAME, "");
 	cookie.setPath(request.getContextPath());
