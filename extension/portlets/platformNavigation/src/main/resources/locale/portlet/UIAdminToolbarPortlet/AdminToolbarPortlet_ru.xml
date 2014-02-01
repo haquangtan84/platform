@@ -3,7 +3,7 @@
    <UIAdminToolbarPortlet>
       <action>
          <AddPage>Добавить страницу</AddPage>
-         <EditNavigation>Navigation</EditNavigation>
+         <EditNavigation>Навигация</EditNavigation>
          <Content>Content</Content>
          <Editor>Edit</Editor>
          <Page>Page</Page>

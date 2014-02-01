@@ -30,11 +30,11 @@
   <msg name="loginHistory.beforeThat">Before that</msg>
   <msg name="loginHistory.more">More</msg>
   <msg name="loginHistory.stats">Stats</msg>
-  <msg name="loginHistory.history">History</msg>
+  <msg name="loginHistory.history">История</msg>
   <msg name="loginHistory.global">Global</msg>
   <msg name="loginHistory.week">Неделя</msg>
   <msg name="loginHistory.lastLoginsView">Last Logins</msg>
-  <msg name="loginHistory.historyView">History</msg>
+  <msg name="loginHistory.historyView">История</msg>
   <msg name="loginHistory.statisticsView">Statistics</msg>
   <msg name="loginHistory.averagePerDay">Average logins / day</msg>
   <msg name="loginHistory.averagePerWeek">Average logins / week</msg>
