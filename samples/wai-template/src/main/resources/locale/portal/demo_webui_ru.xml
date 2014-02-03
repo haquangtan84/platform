@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bundle>
   <Signin>
-    <welcome>Welcome</welcome>
+    <welcome>Добро пожаловать</welcome>
     <login>Login</login>
     <logout>Logout</logout>
     <language>
