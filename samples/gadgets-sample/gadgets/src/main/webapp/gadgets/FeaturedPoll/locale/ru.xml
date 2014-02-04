@@ -21,7 +21,7 @@
 -->
 <messagebundle>
   <msg name="title">Featured Poll</msg>
-  <msg name="setting">View</msg>
+  <msg name="setting">Показать</msg>
   <msg name="vote">Vote</msg>
   <msg name="voteAgain">Проголосовать еще раз</msg>
   <msg name="warning">Please choose at least one option</msg>

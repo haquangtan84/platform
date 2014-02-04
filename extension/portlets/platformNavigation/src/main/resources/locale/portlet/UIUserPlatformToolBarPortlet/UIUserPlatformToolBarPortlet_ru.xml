@@ -8,7 +8,7 @@
 <wiki>Моя Wiki</wiki>
 <account>Settings</account>
 <language>Изменить язык</language>
-<logout>Logout</logout>
+<logout>Выйти</logout>
         <dashboard>My Dashboard</dashboard>
 </label>
 </UIUserPlatformToolBarPortlet>

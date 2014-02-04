@@ -4,7 +4,7 @@
       <action>
          <AddPage>Добавить страницу</AddPage>
          <EditNavigation>Навигация</EditNavigation>
-         <Content>Content</Content>
+         <Content>Содержимое</Content>
          <Editor>Edit</Editor>
          <Page>Page</Page>
          <Site>Сайт</Site>
@@ -33,13 +33,13 @@
       <frequency>Частота:</frequency>
       <select-language>Select Language</select-language>
       <option>
-        <Always>Always</Always>
+        <Always>Всегда</Always>
         <Hourly>Каждый час</Hourly>
         <Daily>Ежедневно</Daily>
         <Weekly>Еженедельно</Weekly>
         <Monthly>Ежемесячно</Monthly>
         <Yearly>Ежегодно</Yearly>
-        <Never>Never</Never>
+        <Never>Никогда</Never>
       </option> 
     </label>
  

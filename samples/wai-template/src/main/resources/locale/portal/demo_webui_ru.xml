@@ -2,8 +2,8 @@
 <bundle>
   <Signin>
     <welcome>Добро пожаловать</welcome>
-    <login>Login</login>
-    <logout>Logout</logout>
+    <login>Авторизация</login>
+    <logout>Выйти</logout>
     <language>
       <en>Switch to English</en>
       <fr>Switch to French</fr>
