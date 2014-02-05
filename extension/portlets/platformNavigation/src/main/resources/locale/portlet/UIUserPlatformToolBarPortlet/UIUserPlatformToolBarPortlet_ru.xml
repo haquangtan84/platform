@@ -2,14 +2,14 @@
 <bundle>
 <UIUserPlatformToolBarPortlet>
 <label>
-<activities>My Activity Stream</activities>
-<profile>My Profile</profile>
-<network>My Connections</network>
+<activities>Моя лента активности</activities>
+<profile>Мой профиль</profile>
+<network>Мои контакты</network>
 <wiki>Моя Wiki</wiki>
-<account>Settings</account>
+<account>Настройки</account>
 <language>Изменить язык</language>
 <logout>Выйти</logout>
-        <dashboard>My Dashboard</dashboard>
+        <dashboard>Моя панель мониторинга</dashboard>
 </label>
 </UIUserPlatformToolBarPortlet>
 </bundle>
