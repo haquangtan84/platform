@@ -25,7 +25,7 @@
   <msg name="save">#{word.save}</msg>
   <msg name="add">Добавить</msg>
   <msg name="ok">ОК</msg>
-  <msg name="name">Name</msg>
+  <msg name="name">Имя</msg>
   <msg name="url">URL-адрес</msg>
   <msg name="delete">Удалить</msg>
   <msg name="edit">Редактировать</msg>
