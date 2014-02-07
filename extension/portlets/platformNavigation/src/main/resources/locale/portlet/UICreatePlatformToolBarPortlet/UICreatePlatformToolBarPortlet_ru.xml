@@ -2,7 +2,7 @@
 <bundle>
    <UIUserPlatformToolBarCreatePortlet>
       <label>
-         <topic>Тема</topic>
+         <topic>Темы</topic>
          <poll>Опрос</poll>
          <eventtask>Событие/Задача</eventtask>
          <upload>Загрузить файл</upload>
