@@ -9,7 +9,7 @@
          <Myactivities>Моя лента активности</Myactivities>
          <Myprofile>Мой профиль</Myprofile>
          <Myconnections>Мои контакты</Myconnections>
-         <Mywiki>Моя Wiki</Mywiki>
+         <Mywiki>Моя Вики-страница</Mywiki>
          <Mydashboard>Моя панель мониторинга</Mydashboard>
       </label>
    </UIUserNavigationPortlet>
