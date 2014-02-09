@@ -2,11 +2,11 @@
 <bundle>
    <UIUserPlatformToolBarCreatePortlet>
       <label>
-         <topic>Темы</topic>
+         <topic>Тема</topic>
          <poll>Опрос</poll>
          <eventtask>Событие/Задача</eventtask>
          <upload>Загрузить файл</upload>
-         <wiki>Страница Wiki</wiki>
+         <wiki>Вики-страница</wiki>
 
       </label>
    </UIUserPlatformToolBarCreatePortlet>
@@ -26,7 +26,7 @@
    <UICreateTopic>
       <label>
          <SelectAForum>Выберите форум</SelectAForum>
-         <location>In Location</location>
+         <location>В расположении</location>
          <forumId>И форум</forumId>
          <FilterForums>Фильтровать форумы</FilterForums>
       </label>
@@ -34,15 +34,15 @@
    <UICreatePoll>
       <label>
          <SelectAForum>Выбрать форум</SelectAForum>
-         <location>In Location</location>
+         <location>В расположении</location>
          <forumId>И форум</forumId>
          <FilterForums>Фильтровать форумы</FilterForums>
       </label>
    </UICreatePoll>
    <UICreateWiki>
       <label>
-         <title>Создать новую страницу Wiki:</title>
-         <location>In Location</location>
+         <title>Создать новую Вики-страницу:</title>
+         <location>В расположении</location>
       </label>
    </UICreateWiki>
    <UICreateEvent>

@@ -25,8 +25,8 @@
   <msg name="forums.statistic.title">Статистика форума</msg>
   <msg name="forums.statistic.total.topic">Всего тем:</msg>
   <msg name="forums.statistic.total.post">Всего сообщений:</msg>
-  <msg name="forums.statistic.total.member">Всего участников:</msg>
-  <msg name="forums.statistic.active.member">Активные участники:</msg>
+  <msg name="forums.statistic.total.member">Всего членов:</msg>
+  <msg name="forums.statistic.active.member">Активные члены:</msg>
   <msg name="forums.statistic.maximum.user">Максимальное число пользователей онлайн:</msg>  
   <msg name="forums.statistic.at">в</msg>  
   <msg name="forums.weekly.statistic.title">Статистика форума за неделю</msg>
