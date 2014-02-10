@@ -74,6 +74,9 @@
    </UICreateEvent>
     <UIUploadFile>
         <Select>{crwdns6429349:0}{crwdne6429349:0}</Select>
+        <action>
+          <close>#{word.close}</close>
+        </action>
     </UIUploadFile>
    <Choix>
       <label>
