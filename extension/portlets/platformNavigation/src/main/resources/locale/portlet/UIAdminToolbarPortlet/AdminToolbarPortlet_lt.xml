@@ -2,38 +2,38 @@
 <bundle>
    <UIAdminToolbarPortlet>
       <action>
-         <AddPage>Add Page</AddPage>
-         <EditNavigation>Navigation</EditNavigation>
-         <Content>Content</Content>
+         <AddPage>Pridėti puslapį</AddPage>
+         <EditNavigation>Navigacija</EditNavigation>
+         <Content>Turinys</Content>
          <Editor>Redaguoti</Editor>
-         <Page>Page</Page>
-         <Site>Site</Site>
-         <Layout>Edit Layout</Layout>
-         <siteLayout>Layout</siteLayout>
+         <Page>Puslapis</Page>
+         <Site>Svetainė</Site>
+         <Layout>Redaguoti išdėstymą</Layout>
+         <siteLayout>Išdėstymas</siteLayout>
          <ManagePages>Manage Pages</ManagePages>
          <GroupSite>Group Site</GroupSite>
          <Properties>#{UISEOToolbarForm.label.seo}</Properties>
-         <AddSite>Add Site</AddSite>
+         <AddSite>Pridėti svetainę</AddSite>
       </action>
-<ManageSites>Manage Sites</ManageSites>
+<ManageSites>Valdyti svetaines</ManageSites>
 <ManageGroupSites>Manage Group Sites</ManageGroupSites>
    </UIAdminToolbarPortlet>
 
   <UISEOForm>
     <label>
-      <title>Title:</title>  
-      <description>Description:</description>
-      <keywords>Keywords:</keywords>
+      <title>Antraštė:</title>  
+      <description>Aprašymas:</description>
+      <keywords>Raktažodžiai:</keywords>
       <language>Language:</language>
-      <robots>Robots:</robots>
-      <sitemap>Sitemap:</sitemap>
-      <sitemapvisible>Visible in sitemap</sitemapvisible>
+      <robots>Robotai:</robots>
+      <sitemap>Svetainės žemėlapis:</sitemap>
+      <sitemapvisible>Matomas svetainės žemėlapyje</sitemapvisible>
   <isInherited>Inherited from parent page</isInherited>
-      <priority>Priority:</priority>
-      <frequency>Frequency:</frequency>
-      <select-language>Select Language</select-language>
+      <priority>Prioritetas:</priority>
+      <frequency>Dažnis:</frequency>
+      <select-language>Pasirinkite kalbą</select-language>
       <option>
-        <Always>Always</Always>
+        <Always>Visada</Always>
         <Hourly>Hourly</Hourly>
         <Daily>Daily</Daily>
         <Weekly>Weekly</Weekly>
@@ -52,7 +52,7 @@
       <confirm-delete>Are you sure you want to delete these SEO data?</confirm-delete>
     </msg>
     <title>
-    <seo-delete>Delete</seo-delete>
+    <seo-delete>Ištrinti</seo-delete>
     </title>
 <help> 
   <priority>Valid values range from 0.0 to 1.0.</priority>
@@ -67,7 +67,7 @@
   </UISEOPopupWindow>    
   <UISEOToolbarForm>
   <title>
-      <seo>SEO Management</seo>
+      <seo>SEO valdymas</seo>
   </title>
   <label>
     <seo>SEO</seo>
