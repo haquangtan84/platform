@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bundle>
   <Signin>
-    <welcome>{crwdns6429386:0}{crwdne6429386:0}</welcome>
-    <login>{crwdns6429387:0}{crwdne6429387:0}</login>
-    <logout>{crwdns6429388:0}{crwdne6429388:0}</logout>
+    <welcome>crwdns6429386:0crwdne6429386:0</welcome>
+    <login>crwdns6429387:0crwdne6429387:0</login>
+    <logout>crwdns6429388:0crwdne6429388:0</logout>
     <language>
-      <en>{crwdns6429389:0}{crwdne6429389:0}</en>
-      <fr>{crwdns6429390:0}{crwdne6429390:0}</fr>
+      <en>crwdns6429389:0crwdne6429389:0</en>
+      <fr>crwdns6429390:0crwdne6429390:0</fr>
     </language>
-    <register>{crwdns6429391:0}{crwdne6429391:0}</register>
+    <register>crwdns6429391:0crwdne6429391:0</register>
   </Signin>
   <Toolbar>
-    <SkipToContent>{crwdns6429392:0}{crwdne6429392:0}</SkipToContent>
-    <SiteMap>{crwdns6429393:0}{crwdne6429393:0}</SiteMap>
-    <Accessibility>{crwdns6429394:0}{crwdne6429394:0}</Accessibility>
-    <NormalSize>{crwdns6429395:0}{crwdne6429395:0}</NormalSize>
-    <MediumSize>{crwdns6429396:0}{crwdne6429396:0}</MediumSize>
-    <LargeSize>{crwdns6429397:0}{crwdne6429397:0}</LargeSize>
-    <NormalContrast>{crwdns6429398:0}{crwdne6429398:0}</NormalContrast>
-    <HighContrast>{crwdns6429399:0}{crwdne6429399:0}</HighContrast>
-    <Search>{crwdns6429400:0}{crwdne6429400:0}</Search>
+    <SkipToContent>crwdns6429392:0crwdne6429392:0</SkipToContent>
+    <SiteMap>crwdns6429393:0crwdne6429393:0</SiteMap>
+    <Accessibility>crwdns6429394:0crwdne6429394:0</Accessibility>
+    <NormalSize>crwdns6429395:0crwdne6429395:0</NormalSize>
+    <MediumSize>crwdns6429396:0crwdne6429396:0</MediumSize>
+    <LargeSize>crwdns6429397:0crwdne6429397:0</LargeSize>
+    <NormalContrast>crwdns6429398:0crwdne6429398:0</NormalContrast>
+    <HighContrast>crwdns6429399:0crwdne6429399:0</HighContrast>
+    <Search>crwdns6429400:0crwdne6429400:0</Search>
   </Toolbar>
   <Logo>
-    <GoHome>{crwdns6429401:0}{crwdne6429401:0}</GoHome>
+    <GoHome>crwdns6429401:0crwdne6429401:0</GoHome>
   </Logo>
   <acme>
-    <label>{crwdns6429402:0}{crwdne6429402:0}</label>
+    <label>crwdns6429402:0crwdne6429402:0</label>
   </acme>  
   <WAIPortal>
-    <label>{crwdns6429403:0}{crwdne6429403:0}</label>
+    <label>crwdns6429403:0crwdne6429403:0</label>
   </WAIPortal>
 </bundle>

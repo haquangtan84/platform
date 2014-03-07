@@ -2,14 +2,14 @@
 <bundle>
 <UIUserPlatformToolBarPortlet>
 <label>
-<activities>{crwdns6429540:0}{crwdne6429540:0}</activities>
-<profile>{crwdns6429541:0}{crwdne6429541:0}</profile>
-<network>{crwdns6429542:0}{crwdne6429542:0}</network>
-<wiki>{crwdns6429543:0}{crwdne6429543:0}</wiki>
-<account>{crwdns6429544:0}{crwdne6429544:0}</account>
-<language>{crwdns6429545:0}{crwdne6429545:0}</language>
-<logout>{crwdns6429546:0}{crwdne6429546:0}</logout>
-        <dashboard>{crwdns6429547:0}{crwdne6429547:0}</dashboard>
+<activities>crwdns6429540:0crwdne6429540:0</activities>
+<profile>crwdns6429541:0crwdne6429541:0</profile>
+<network>crwdns6429542:0crwdne6429542:0</network>
+<wiki>crwdns6429543:0crwdne6429543:0</wiki>
+<account>crwdns6429544:0crwdne6429544:0</account>
+<language>crwdns6429545:0crwdne6429545:0</language>
+<logout>crwdns6429546:0crwdne6429546:0</logout>
+        <dashboard>crwdns6429547:0crwdne6429547:0</dashboard>
 </label>
 </UIUserPlatformToolBarPortlet>
 </bundle>

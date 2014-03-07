@@ -2,13 +2,13 @@
 <bundle>
  <UISpaceNavigationPortlet>
      <label>
-         <Spaces>{crwdns6429352:0}{crwdne6429352:0}</Spaces>
-         <Join>{crwdns6429353:0}{crwdne6429353:0}</Join>
-         <see>{crwdns6752597:0}{0}{crwdne6752597:0}</see>
+         <Spaces>crwdns6429352:0crwdne6429352:0</Spaces>
+         <Join>crwdns6429353:0crwdne6429353:0</Join>
+         <see>crwdns6752597:0{0}crwdne6752597:0</see>
      </label>
      <msg>
-         <filter-spaces>{crwdns6429356:0}{crwdne6429356:0}</filter-spaces>
-         <no-space>{crwdns6429357:0}{crwdne6429357:0}</no-space>
+         <filter-spaces>crwdns6429356:0crwdne6429356:0</filter-spaces>
+         <no-space>crwdns6429357:0crwdne6429357:0</no-space>
      </msg>
 
 </UISpaceNavigationPortlet>

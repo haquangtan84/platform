@@ -23,11 +23,11 @@
 <Product>
 <view>
 <label>
-<benefits>{crwdns6429436:0}{crwdne6429436:0}</benefits>
-<features>{crwdns6429437:0}{crwdne6429437:0}</features>
-<seeItInAction>{crwdns6429438:0}{crwdne6429438:0}</seeItInAction>
-<resources>{crwdns6429439:0}{crwdne6429439:0}</resources>
-<videos>{crwdns6429440:0}{crwdne6429440:0}</videos>
+<benefits>crwdns6429436:0crwdne6429436:0</benefits>
+<features>crwdns6429437:0crwdne6429437:0</features>
+<seeItInAction>crwdns6429438:0crwdne6429438:0</seeItInAction>
+<resources>crwdns6429439:0crwdne6429439:0</resources>
+<videos>crwdns6429440:0crwdne6429440:0</videos>
 </label>
 </view>
 </Product>

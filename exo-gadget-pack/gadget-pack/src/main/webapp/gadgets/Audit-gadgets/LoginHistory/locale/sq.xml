@@ -22,29 +22,29 @@
 
 -->
 <messagebundle>
-  <msg name="loginHistory.title">{crwdns6429220:0}{crwdne6429220:0}</msg>
-  <msg name="loginHistory.user">{crwdns6429221:0}{crwdne6429221:0}</msg>
-  <msg name="loginHistory.find">{crwdns6429222:0}{crwdne6429222:0}</msg>
-  <msg name="loginHistory.latest">{crwdns6429223:0}{crwdne6429223:0}</msg>
-  <msg name="loginHistory.lastLogin">{crwdns6429224:0}{crwdne6429224:0}</msg>
-  <msg name="loginHistory.beforeThat">{crwdns6429225:0}{crwdne6429225:0}</msg>
-  <msg name="loginHistory.more">{crwdns6429226:0}{crwdne6429226:0}</msg>
-  <msg name="loginHistory.stats">{crwdns6429227:0}{crwdne6429227:0}</msg>
-  <msg name="loginHistory.history">{crwdns6429228:0}{crwdne6429228:0}</msg>
+  <msg name="loginHistory.title">crwdns6429220:0crwdne6429220:0</msg>
+  <msg name="loginHistory.user">crwdns6429221:0crwdne6429221:0</msg>
+  <msg name="loginHistory.find">crwdns6429222:0crwdne6429222:0</msg>
+  <msg name="loginHistory.latest">crwdns6429223:0crwdne6429223:0</msg>
+  <msg name="loginHistory.lastLogin">crwdns6429224:0crwdne6429224:0</msg>
+  <msg name="loginHistory.beforeThat">crwdns6429225:0crwdne6429225:0</msg>
+  <msg name="loginHistory.more">crwdns6429226:0crwdne6429226:0</msg>
+  <msg name="loginHistory.stats">crwdns6429227:0crwdne6429227:0</msg>
+  <msg name="loginHistory.history">crwdns6429228:0crwdne6429228:0</msg>
   <msg name="loginHistory.global">Global</msg>
-  <msg name="loginHistory.week">{crwdns6429230:0}{crwdne6429230:0}</msg>
-  <msg name="loginHistory.lastLoginsView">{crwdns6429231:0}{crwdne6429231:0}</msg>
-  <msg name="loginHistory.historyView">{crwdns6429232:0}{crwdne6429232:0}</msg>
-  <msg name="loginHistory.statisticsView">{crwdns6429233:0}{crwdne6429233:0}</msg>
-  <msg name="loginHistory.averagePerDay">{crwdns6429234:0}{crwdne6429234:0}</msg>
-  <msg name="loginHistory.averagePerWeek">{crwdns6429235:0}{crwdne6429235:0}</msg>
-  <msg name="loginHistory.averagePerMonth">{crwdns6429236:0}{crwdne6429236:0}</msg>
-  <msg name="loginHistory.today">{crwdns6429237:0}{crwdne6429237:0}</msg>
-  <msg name="loginHistory.earlierThisWeek">{crwdns6429238:0}{crwdne6429238:0}</msg>
-  <msg name="loginHistory.earlierThisMonth">{crwdns6429239:0}{crwdne6429239:0}</msg>
-  <msg name="loginHistory.earlier">{crwdns6429240:0}{crwdne6429240:0}</msg>
-  <msg name="loginHistory.allUsers">{crwdns6429241:0}{crwdne6429241:0}</msg>
-  <msg name="loginHistory.unknow">{crwdns6429242:0}{crwdne6429242:0}</msg>
-  <msg name="loginHistory.next">{crwdns6429243:0}{crwdne6429243:0}</msg>
+  <msg name="loginHistory.week">crwdns6429230:0crwdne6429230:0</msg>
+  <msg name="loginHistory.lastLoginsView">crwdns6429231:0crwdne6429231:0</msg>
+  <msg name="loginHistory.historyView">crwdns6429232:0crwdne6429232:0</msg>
+  <msg name="loginHistory.statisticsView">crwdns6429233:0crwdne6429233:0</msg>
+  <msg name="loginHistory.averagePerDay">crwdns6429234:0crwdne6429234:0</msg>
+  <msg name="loginHistory.averagePerWeek">crwdns6429235:0crwdne6429235:0</msg>
+  <msg name="loginHistory.averagePerMonth">crwdns6429236:0crwdne6429236:0</msg>
+  <msg name="loginHistory.today">crwdns6429237:0crwdne6429237:0</msg>
+  <msg name="loginHistory.earlierThisWeek">crwdns6429238:0crwdne6429238:0</msg>
+  <msg name="loginHistory.earlierThisMonth">crwdns6429239:0crwdne6429239:0</msg>
+  <msg name="loginHistory.earlier">crwdns6429240:0crwdne6429240:0</msg>
+  <msg name="loginHistory.allUsers">crwdns6429241:0crwdne6429241:0</msg>
+  <msg name="loginHistory.unknow">crwdns6429242:0crwdne6429242:0</msg>
+  <msg name="loginHistory.next">crwdns6429243:0crwdne6429243:0</msg>
   <msg name="loginHistory.ago">Ago</msg>
 </messagebundle>

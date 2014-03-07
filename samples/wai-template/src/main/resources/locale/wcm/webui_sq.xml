@@ -22,20 +22,20 @@
 <bundle>
   <UIPortalApplication>
     <title>
-      <abort>{crwdns6429475:0}{crwdne6429475:0}</abort>
+      <abort>crwdns6429475:0crwdne6429475:0</abort>
     </title>
   </UIPortalApplication>
   
   <CategoryNavigationTemplate>
   <label>
-  <home>{crwdns6429476:0}{crwdne6429476:0}</home>
-  <Accessibility>{crwdns6429477:0}{crwdne6429477:0}</Accessibility>
+  <home>crwdns6429476:0crwdne6429476:0</home>
+  <Accessibility>crwdns6429477:0crwdne6429477:0</Accessibility>
   </label>
   </CategoryNavigationTemplate>
   
   <Breadcrumb>
   <label>
-  <home>{crwdns6429478:0}{crwdne6429478:0}</home>
+  <home>crwdns6429478:0crwdne6429478:0</home>
   </label>  
   </Breadcrumb>
 </bundle>

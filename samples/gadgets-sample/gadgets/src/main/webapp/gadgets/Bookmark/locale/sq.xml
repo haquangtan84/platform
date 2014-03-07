@@ -20,16 +20,16 @@
 
 -->
 <messagebundle>
-  <msg name="title">{crwdns6429306:0}{crwdne6429306:0}</msg>
+  <msg name="title">crwdns6429306:0crwdne6429306:0</msg>
   <msg name="customize">Customize</msg>
   <msg name="save">#{word.save}</msg>
-  <msg name="add">{crwdns6436687:0}{crwdne6436687:0}</msg>
-  <msg name="ok">{crwdns6436688:0}{crwdne6436688:0}</msg>
+  <msg name="add">crwdns6436687:0crwdne6436687:0</msg>
+  <msg name="ok">crwdns6436688:0crwdne6436688:0</msg>
   <msg name="name">Name</msg>
-  <msg name="url">{crwdns6429311:0}{crwdne6429311:0}</msg>
-  <msg name="delete">{crwdns6436689:0}{crwdne6436689:0}</msg>
-  <msg name="edit">{crwdns6436690:0}{crwdne6436690:0}</msg>
-  <msg name="cancel">{crwdns6751998:0}{crwdne6751998:0}</msg>
-  <msg name="emptyBookmarkPre">{crwdns6752595:0}{crwdne6752595:0}</msg>
-  <msg name="addBookmark">{crwdns6752596:0}{crwdne6752596:0}</msg>
+  <msg name="url">crwdns6429311:0crwdne6429311:0</msg>
+  <msg name="delete">crwdns6436689:0crwdne6436689:0</msg>
+  <msg name="edit">crwdns6436690:0crwdne6436690:0</msg>
+  <msg name="cancel">crwdns6751998:0crwdne6751998:0</msg>
+  <msg name="emptyBookmarkPre">crwdns6752595:0crwdne6752595:0</msg>
+  <msg name="addBookmark">crwdns6752596:0crwdne6752596:0</msg>
 </messagebundle>

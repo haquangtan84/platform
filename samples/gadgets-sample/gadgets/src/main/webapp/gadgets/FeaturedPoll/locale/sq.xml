@@ -20,16 +20,16 @@
 
 -->
 <messagebundle>
-  <msg name="title">{crwdns6429463:0}{crwdne6429463:0}</msg>
-  <msg name="setting">{crwdns6429464:0}{crwdne6429464:0}</msg>
-  <msg name="vote">{crwdns6429465:0}{crwdne6429465:0}</msg>
-  <msg name="voteAgain">{crwdns6429466:0}{crwdne6429466:0}</msg>
-  <msg name="warning">{crwdns6429467:0}{crwdne6429467:0}</msg>
-  <msg name="option">{crwdns6429468:0}{crwdne6429468:0}</msg>
-  <msg name="percent">{crwdns6429469:0}{crwdne6429469:0}</msg>
-  <msg name="voter">{crwdns6429470:0}{crwdne6429470:0}</msg>
-  <msg name="total">{crwdns6429471:0}{crwdne6429471:0}</msg>
-  <msg name="discuss">{crwdns6429472:0}{crwdne6429472:0}</msg>
-  <msg name="nopoll">{crwdns6436694:0}{crwdne6436694:0}</msg>  
-  <msg name="createPoll">{crwdns6429474:0}{crwdne6429474:0}</msg>    
+  <msg name="title">crwdns6429463:0crwdne6429463:0</msg>
+  <msg name="setting">crwdns6429464:0crwdne6429464:0</msg>
+  <msg name="vote">crwdns6429465:0crwdne6429465:0</msg>
+  <msg name="voteAgain">crwdns6429466:0crwdne6429466:0</msg>
+  <msg name="warning">crwdns6429467:0crwdne6429467:0</msg>
+  <msg name="option">crwdns6429468:0crwdne6429468:0</msg>
+  <msg name="percent">crwdns6429469:0crwdne6429469:0</msg>
+  <msg name="voter">crwdns6429470:0crwdne6429470:0</msg>
+  <msg name="total">crwdns6429471:0crwdne6429471:0</msg>
+  <msg name="discuss">crwdns6429472:0crwdne6429472:0</msg>
+  <msg name="nopoll">crwdns6436694:0crwdne6436694:0</msg>  
+  <msg name="createPoll">crwdns6429474:0crwdne6429474:0</msg>    
 </messagebundle>

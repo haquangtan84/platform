@@ -20,10 +20,10 @@
 
 -->
 <messagebundle>
-  <msg name="title">{crwdns6429479:0}{crwdne6429479:0}</msg>
-  <msg name="titleFav">{crwdns6429480:0}{crwdne6429480:0}</msg>
-  <msg name="titleDoc">{crwdns6429481:0}{crwdne6429481:0}</msg>  
-  <msg name="nofav">{crwdns6436695:0}{crwdne6436695:0}</msg>
-  <msg name="nodoc">{crwdns6436696:0}{crwdne6436696:0}</msg>
-  <msg name="showall">{crwdns6429484:0}{crwdne6429484:0}</msg>
+  <msg name="title">crwdns6429479:0crwdne6429479:0</msg>
+  <msg name="titleFav">crwdns6429480:0crwdne6429480:0</msg>
+  <msg name="titleDoc">crwdns6429481:0crwdne6429481:0</msg>  
+  <msg name="nofav">crwdns6436695:0crwdne6436695:0</msg>
+  <msg name="nodoc">crwdns6436696:0crwdne6436696:0</msg>
+  <msg name="showall">crwdns6429484:0crwdne6429484:0</msg>
 </messagebundle>

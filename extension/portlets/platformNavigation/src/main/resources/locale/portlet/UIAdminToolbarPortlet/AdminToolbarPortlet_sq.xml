@@ -2,44 +2,44 @@
 <bundle>
    <UIAdminToolbarPortlet>
       <action>
-         <AddPage>{crwdns6429590:0}{crwdne6429590:0}</AddPage>
-         <EditNavigation>{crwdns6429591:0}{crwdne6429591:0}</EditNavigation>
-         <Content>{crwdns6429592:0}{crwdne6429592:0}</Content>
-         <Editor>{crwdns6429593:0}{crwdne6429593:0}</Editor>
-         <Page>{crwdns6429594:0}{crwdne6429594:0}</Page>
-         <Site>{crwdns6429595:0}{crwdne6429595:0}</Site>
-         <Layout>{crwdns6429596:0}{crwdne6429596:0}</Layout>
-         <siteLayout>{crwdns6429597:0}{crwdne6429597:0}</siteLayout>
-         <ManagePages>{crwdns6429598:0}{crwdne6429598:0}</ManagePages>
-         <GroupSite>{crwdns6429599:0}{crwdne6429599:0}</GroupSite>
+         <AddPage>crwdns6429590:0crwdne6429590:0</AddPage>
+         <EditNavigation>crwdns6429591:0crwdne6429591:0</EditNavigation>
+         <Content>crwdns6429592:0crwdne6429592:0</Content>
+         <Editor>crwdns6429593:0crwdne6429593:0</Editor>
+         <Page>crwdns6429594:0crwdne6429594:0</Page>
+         <Site>crwdns6429595:0crwdne6429595:0</Site>
+         <Layout>crwdns6429596:0crwdne6429596:0</Layout>
+         <siteLayout>crwdns6429597:0crwdne6429597:0</siteLayout>
+         <ManagePages>crwdns6429598:0crwdne6429598:0</ManagePages>
+         <GroupSite>crwdns6429599:0crwdne6429599:0</GroupSite>
          <Properties>#{UISEOToolbarForm.label.seo}</Properties>
-         <AddSite>{crwdns6429601:0}{crwdne6429601:0}</AddSite>
+         <AddSite>crwdns6429601:0crwdne6429601:0</AddSite>
       </action>
-<ManageSites>{crwdns6429602:0}{crwdne6429602:0}</ManageSites>
-<ManageGroupSites>{crwdns6429603:0}{crwdne6429603:0}</ManageGroupSites>
+<ManageSites>crwdns6429602:0crwdne6429602:0</ManageSites>
+<ManageGroupSites>crwdns6429603:0crwdne6429603:0</ManageGroupSites>
    </UIAdminToolbarPortlet>
 
   <UISEOForm>
     <label>
-      <title>{crwdns6429604:0}{crwdne6429604:0}</title>  
-      <description>{crwdns6429605:0}{crwdne6429605:0}</description>
-      <keywords>{crwdns6429606:0}{crwdne6429606:0}</keywords>
-      <language>{crwdns6429607:0}{crwdne6429607:0}</language>
-      <robots>{crwdns6429608:0}{crwdne6429608:0}</robots>
-      <sitemap>{crwdns6429609:0}{crwdne6429609:0}</sitemap>
-      <sitemapvisible>{crwdns6429610:0}{crwdne6429610:0}</sitemapvisible>
-  <isInherited>{crwdns6429611:0}{crwdne6429611:0}</isInherited>
-      <priority>{crwdns6429612:0}{crwdne6429612:0}</priority>
-      <frequency>{crwdns6429613:0}{crwdne6429613:0}</frequency>
-      <select-language>{crwdns6429614:0}{crwdne6429614:0}</select-language>
+      <title>crwdns6429604:0crwdne6429604:0</title>  
+      <description>crwdns6429605:0crwdne6429605:0</description>
+      <keywords>crwdns6429606:0crwdne6429606:0</keywords>
+      <language>crwdns6429607:0crwdne6429607:0</language>
+      <robots>crwdns6429608:0crwdne6429608:0</robots>
+      <sitemap>crwdns6429609:0crwdne6429609:0</sitemap>
+      <sitemapvisible>crwdns6429610:0crwdne6429610:0</sitemapvisible>
+  <isInherited>crwdns6429611:0crwdne6429611:0</isInherited>
+      <priority>crwdns6429612:0crwdne6429612:0</priority>
+      <frequency>crwdns6429613:0crwdne6429613:0</frequency>
+      <select-language>crwdns6429614:0crwdne6429614:0</select-language>
       <option>
-        <Always>{crwdns6429615:0}{crwdne6429615:0}</Always>
-        <Hourly>{crwdns6429616:0}{crwdne6429616:0}</Hourly>
-        <Daily>{crwdns6429617:0}{crwdne6429617:0}</Daily>
-        <Weekly>{crwdns6429618:0}{crwdne6429618:0}</Weekly>
-        <Monthly>{crwdns6429619:0}{crwdne6429619:0}</Monthly>
-        <Yearly>{crwdns6429620:0}{crwdne6429620:0}</Yearly>
-        <Never>{crwdns6429621:0}{crwdne6429621:0}</Never>
+        <Always>crwdns6429615:0crwdne6429615:0</Always>
+        <Hourly>crwdns6429616:0crwdne6429616:0</Hourly>
+        <Daily>crwdns6429617:0crwdne6429617:0</Daily>
+        <Weekly>crwdns6429618:0crwdne6429618:0</Weekly>
+        <Monthly>crwdns6429619:0crwdne6429619:0</Monthly>
+        <Yearly>crwdns6429620:0crwdne6429620:0</Yearly>
+        <Never>crwdns6429621:0crwdne6429621:0</Never>
       </option> 
     </label>
  
@@ -48,16 +48,16 @@
       <Cancel>#{word.cancel}</Cancel>
     </action>
     <msg>
-      <repository-exception>{crwdns6429624:0}{crwdne6429624:0}</repository-exception>
-      <confirm-delete>{crwdns6429625:0}{crwdne6429625:0}</confirm-delete>
+      <repository-exception>crwdns6429624:0crwdne6429624:0</repository-exception>
+      <confirm-delete>crwdns6429625:0crwdne6429625:0</confirm-delete>
     </msg>
     <title>
-    <seo-delete>{crwdns6429626:0}{crwdne6429626:0}</seo-delete>
+    <seo-delete>crwdns6429626:0crwdne6429626:0</seo-delete>
     </title>
 <help> 
-  <priority>{crwdns6429627:0}{crwdne6429627:0}</priority>
-  <description>{crwdns6429628:0}{crwdne6429628:0}</description>
-  <keywords>{crwdns6429629:0}{crwdne6429629:0}</keywords>  
+  <priority>crwdns6429627:0crwdne6429627:0</priority>
+  <description>crwdns6429628:0crwdne6429628:0</description>
+  <keywords>crwdns6429629:0crwdne6429629:0</keywords>  
     </help>  
   </UISEOForm>
   <UISEOPopupWindow>
@@ -67,23 +67,23 @@
   </UISEOPopupWindow>    
   <UISEOToolbarForm>
   <title>
-      <seo>{crwdns6429631:0}{crwdne6429631:0}</seo>
+      <seo>crwdns6429631:0crwdne6429631:0</seo>
   </title>
   <label>
-    <seo>{crwdns6429632:0}{crwdne6429632:0}</seo>
+    <seo>crwdns6429632:0crwdne6429632:0</seo>
   </label>
   </UISEOToolbarForm>  
   <FloatNumberValidator>
     <msg>
-      <Invalid-number>{crwdns6530947:0}{crwdne6530947:0}</Invalid-number>
+      <Invalid-number>crwdns6530947:0crwdne6530947:0</Invalid-number>
     </msg>
   </FloatNumberValidator>
   
   <Locale>
     <label>      
-      <it>{crwdns6429634:0}{crwdne6429634:0}</it>      
-      <fr>{crwdns6429635:0}{crwdne6429635:0}</fr>
-      <en>{crwdns6429636:0}{crwdne6429636:0}</en>      
+      <it>crwdns6429634:0crwdne6429634:0</it>      
+      <fr>crwdns6429635:0crwdne6429635:0</fr>
+      <en>crwdns6429636:0crwdne6429636:0</en>      
     </label>
   </Locale>
   

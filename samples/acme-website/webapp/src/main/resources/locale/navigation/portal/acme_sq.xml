@@ -2,21 +2,21 @@
 <bundle>
   <portal>
     <acme>
-      <overview>{crwdns6429449:0}{crwdne6429449:0}</overview>
-      <products>{crwdns6429450:0}{crwdne6429450:0}</products>
-      <news>{crwdns6429451:0}{crwdne6429451:0}</news>
-      <contactus>{crwdns6429452:0}{crwdne6429452:0}</contactus>
-      <newsletters>{crwdns6429453:0}{crwdne6429453:0}</newsletters>
-      <confirmation>{crwdns6429454:0}{crwdne6429454:0}</confirmation>
-      <detail>{crwdns6429455:0}{crwdne6429455:0}</detail>
-  <catalog>{crwdns6429456:0}{crwdne6429456:0}</catalog>
-      <printviewer>{crwdns6429457:0}{crwdne6429457:0}</printviewer>
-      <searchResult>{crwdns6429458:0}{crwdne6429458:0}</searchResult>
-      <newAccount>{crwdns6429459:0}{crwdne6429459:0}</newAccount>
-      <groupnavigation>{crwdns6429460:0}{crwdne6429460:0}</groupnavigation>
-      <portalnavigation>{crwdns6429461:0}{crwdne6429461:0}</portalnavigation>
-      <documents>{crwdns6469137:0}{crwdne6469137:0}</documents>
-      <unifiedSearch>{crwdns6469327:0}{crwdne6469327:0}</unifiedSearch>
+      <overview>crwdns6429449:0crwdne6429449:0</overview>
+      <products>crwdns6429450:0crwdne6429450:0</products>
+      <news>crwdns6429451:0crwdne6429451:0</news>
+      <contactus>crwdns6429452:0crwdne6429452:0</contactus>
+      <newsletters>crwdns6429453:0crwdne6429453:0</newsletters>
+      <confirmation>crwdns6429454:0crwdne6429454:0</confirmation>
+      <detail>crwdns6429455:0crwdne6429455:0</detail>
+  <catalog>crwdns6429456:0crwdne6429456:0</catalog>
+      <printviewer>crwdns6429457:0crwdne6429457:0</printviewer>
+      <searchResult>crwdns6429458:0crwdne6429458:0</searchResult>
+      <newAccount>crwdns6429459:0crwdne6429459:0</newAccount>
+      <groupnavigation>crwdns6429460:0crwdne6429460:0</groupnavigation>
+      <portalnavigation>crwdns6429461:0crwdne6429461:0</portalnavigation>
+      <documents>crwdns6469137:0crwdne6469137:0</documents>
+      <unifiedSearch>crwdns6469327:0crwdne6469327:0</unifiedSearch>
     </acme>
   </portal>
 </bundle>

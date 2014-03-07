@@ -22,19 +22,19 @@
 
 -->
 <messagebundle>
-  <msg name="forums.statistic.title">{crwdns6429407:0}{crwdne6429407:0}</msg>
-  <msg name="forums.statistic.total.topic">{crwdns6429408:0}{crwdne6429408:0}</msg>
-  <msg name="forums.statistic.total.post">{crwdns6429409:0}{crwdne6429409:0}</msg>
-  <msg name="forums.statistic.total.member">{crwdns6429410:0}{crwdne6429410:0}</msg>
-  <msg name="forums.statistic.active.member">{crwdns6429411:0}{crwdne6429411:0}</msg>
-  <msg name="forums.statistic.maximum.user">{crwdns6429412:0}{crwdne6429412:0}</msg>  
-  <msg name="forums.statistic.at">{crwdns6429413:0}{crwdne6429413:0}</msg>  
-  <msg name="forums.weekly.statistic.title">{crwdns6429414:0}{crwdne6429414:0}</msg>
-  <msg name="forums.weekly.statistic.post.open">{crwdns6429415:0}{crwdne6429415:0}</msg>
-  <msg name="forums.weekly.statistic.next">{crwdns6429416:0}{crwdne6429416:0}</msg>
-  <msg name="forums.weekly.statistic.prev">{crwdns6429417:0}{crwdne6429417:0}</msg>
-  <msg name="forums.weekly.statistic.view.chart">{crwdns6429418:0}{crwdne6429418:0}</msg>
-  <msg name="forums.weekly.statistic.view.list">{crwdns6429419:0}{crwdne6429419:0}</msg>
-  <msg name="forums.statistic.see.total.statistic">{crwdns6429420:0}{crwdne6429420:0}</msg>
-  <msg name="forums.statistic.see.weekly.statistic">{crwdns6429421:0}{crwdne6429421:0}</msg>  
+  <msg name="forums.statistic.title">crwdns6429407:0crwdne6429407:0</msg>
+  <msg name="forums.statistic.total.topic">crwdns6429408:0crwdne6429408:0</msg>
+  <msg name="forums.statistic.total.post">crwdns6429409:0crwdne6429409:0</msg>
+  <msg name="forums.statistic.total.member">crwdns6429410:0crwdne6429410:0</msg>
+  <msg name="forums.statistic.active.member">crwdns6429411:0crwdne6429411:0</msg>
+  <msg name="forums.statistic.maximum.user">crwdns6429412:0crwdne6429412:0</msg>  
+  <msg name="forums.statistic.at">crwdns6429413:0crwdne6429413:0</msg>  
+  <msg name="forums.weekly.statistic.title">crwdns6429414:0crwdne6429414:0</msg>
+  <msg name="forums.weekly.statistic.post.open">crwdns6429415:0crwdne6429415:0</msg>
+  <msg name="forums.weekly.statistic.next">crwdns6429416:0crwdne6429416:0</msg>
+  <msg name="forums.weekly.statistic.prev">crwdns6429417:0crwdne6429417:0</msg>
+  <msg name="forums.weekly.statistic.view.chart">crwdns6429418:0crwdne6429418:0</msg>
+  <msg name="forums.weekly.statistic.view.list">crwdns6429419:0crwdne6429419:0</msg>
+  <msg name="forums.statistic.see.total.statistic">crwdns6429420:0crwdne6429420:0</msg>
+  <msg name="forums.statistic.see.weekly.statistic">crwdns6429421:0crwdne6429421:0</msg>  
 </messagebundle>

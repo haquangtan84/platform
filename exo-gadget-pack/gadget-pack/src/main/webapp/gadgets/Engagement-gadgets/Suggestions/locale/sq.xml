@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <messagebundle>
-  <msg name="title">{crwdns6429405:0}{crwdne6429405:0}</msg>
+  <msg name="title">crwdns6429405:0crwdne6429405:0</msg>
 
 
-  <msg name="mutual-friends">{crwdns6429406:0}{crwdne6429406:0}</msg>
+  <msg name="mutual-friends">crwdns6429406:0crwdne6429406:0</msg>
 </messagebundle>

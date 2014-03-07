@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bundle>
   <Signin>
-    <welcome>{crwdns6429485:0}{crwdne6429485:0}</welcome>
-    <login>{crwdns6429486:0}{crwdne6429486:0}</login>
-    <logout>{crwdns6429487:0}{crwdne6429487:0}</logout>
-    <language>{crwdns6429488:0}{crwdne6429488:0}</language>
-    <register>{crwdns6429489:0}{crwdne6429489:0}</register>
+    <welcome>crwdns6429485:0crwdne6429485:0</welcome>
+    <login>crwdns6429486:0crwdne6429486:0</login>
+    <logout>crwdns6429487:0crwdne6429487:0</logout>
+    <language>crwdns6429488:0crwdne6429488:0</language>
+    <register>crwdns6429489:0crwdne6429489:0</register>
   </Signin>
 
   <ACMEPortal>
-    <label>{crwdns6429490:0}{crwdne6429490:0}</label>
+    <label>crwdns6429490:0crwdne6429490:0</label>
   </ACMEPortal>
 </bundle>

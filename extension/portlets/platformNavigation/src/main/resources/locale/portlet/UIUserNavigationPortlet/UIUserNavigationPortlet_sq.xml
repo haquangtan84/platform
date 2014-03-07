@@ -2,15 +2,15 @@
 <bundle>
    <UIUserNavigationPortlet>
       <label>
-         <activities>{crwdns6429637:0}{crwdne6429637:0}</activities>
-         <profile>{crwdns6429638:0}{crwdne6429638:0}</profile>
-         <connections>{crwdns6429639:0}{crwdne6429639:0}</connections>
-         <wiki>{crwdns6429640:0}{crwdne6429640:0}</wiki>
-         <Myactivities>{crwdns6429641:0}{crwdne6429641:0}</Myactivities>
-         <Myprofile>{crwdns6429642:0}{crwdne6429642:0}</Myprofile>
-         <Myconnections>{crwdns6429643:0}{crwdne6429643:0}</Myconnections>
-         <Mywiki>{crwdns6429644:0}{crwdne6429644:0}</Mywiki>
-         <Mydashboard>{crwdns6429645:0}{crwdne6429645:0}</Mydashboard>
+         <activities>crwdns6429637:0crwdne6429637:0</activities>
+         <profile>crwdns6429638:0crwdne6429638:0</profile>
+         <connections>crwdns6429639:0crwdne6429639:0</connections>
+         <wiki>crwdns6429640:0crwdne6429640:0</wiki>
+         <Myactivities>crwdns6429641:0crwdne6429641:0</Myactivities>
+         <Myprofile>crwdns6429642:0crwdne6429642:0</Myprofile>
+         <Myconnections>crwdns6429643:0crwdne6429643:0</Myconnections>
+         <Mywiki>crwdns6429644:0crwdne6429644:0</Mywiki>
+         <Mydashboard>crwdns6429645:0crwdne6429645:0</Mydashboard>
       </label>
    </UIUserNavigationPortlet>
 </bundle>

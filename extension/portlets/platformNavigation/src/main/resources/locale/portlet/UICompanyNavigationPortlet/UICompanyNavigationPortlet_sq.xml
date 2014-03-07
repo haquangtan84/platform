@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bundle>
  <UICompanyNavigationPortlet>
-    <CompanyBar>{crwdns6429435:0}{crwdne6429435:0}</CompanyBar>
+    <CompanyBar>crwdns6429435:0crwdne6429435:0</CompanyBar>
 </UICompanyNavigationPortlet>
 </bundle>

@@ -2,21 +2,21 @@
 <bundle>
    <UIUserPlatformToolBarCreatePortlet>
       <label>
-         <topic>{crwdns6429312:0}{crwdne6429312:0}</topic>
-         <poll>{crwdns6429313:0}{crwdne6429313:0}</poll>
-         <eventtask>{crwdns6429314:0}{crwdne6429314:0}</eventtask>
-         <upload>{crwdns6429315:0}{crwdne6429315:0}</upload>
-         <wiki>{crwdns6429316:0}{crwdne6429316:0}</wiki>
+         <topic>crwdns6429312:0crwdne6429312:0</topic>
+         <poll>crwdns6429313:0crwdne6429313:0</poll>
+         <eventtask>crwdns6429314:0crwdne6429314:0</eventtask>
+         <upload>crwdns6429315:0crwdne6429315:0</upload>
+         <wiki>crwdns6429316:0crwdne6429316:0</wiki>
 
       </label>
    </UIUserPlatformToolBarCreatePortlet>
    <UICreateList>
       <label>
-         <topic>{crwdns6436719:0}{crwdne6436719:0}</topic>
-         <poll>{crwdns6436720:0}{crwdne6436720:0}</poll>
-         <CreateANew>{crwdns6429317:0}{1}{crwdne6429317:0}</CreateANew>
-         <NoForum>{crwdns6429318:0}{1}{crwdne6429318:0}</NoForum>
-         <RequireSelectForum>{crwdns6429319:0}{crwdne6429319:0}</RequireSelectForum>
+         <topic>crwdns6436719:0crwdne6436719:0</topic>
+         <poll>crwdns6436720:0crwdne6436720:0</poll>
+         <CreateANew>crwdns6429317:0{1}crwdne6429317:0</CreateANew>
+         <NoForum>crwdns6429318:0{1}crwdne6429318:0</NoForum>
+         <RequireSelectForum>crwdns6429319:0crwdne6429319:0</RequireSelectForum>
       </label>
       <action>
          <Next>#{word.next}</Next>
@@ -25,47 +25,47 @@
    </UICreateList>
    <UICreateTopic>
       <label>
-         <SelectAForum>{crwdns6429322:0}{crwdne6429322:0}</SelectAForum>
-         <location>{crwdns6429323:0}{crwdne6429323:0}</location>
-         <forumId>{crwdns6429324:0}{crwdne6429324:0}</forumId>
-         <FilterForums>{crwdns6429325:0}{crwdne6429325:0}</FilterForums>
+         <SelectAForum>crwdns6429322:0crwdne6429322:0</SelectAForum>
+         <location>crwdns6429323:0crwdne6429323:0</location>
+         <forumId>crwdns6429324:0crwdne6429324:0</forumId>
+         <FilterForums>crwdns6429325:0crwdne6429325:0</FilterForums>
       </label>
    </UICreateTopic>
    <UICreatePoll>
       <label>
-         <SelectAForum>{crwdns6429326:0}{crwdne6429326:0}</SelectAForum>
-         <location>{crwdns6429327:0}{crwdne6429327:0}</location>
-         <forumId>{crwdns6429328:0}{crwdne6429328:0}</forumId>
-         <FilterForums>{crwdns6429329:0}{crwdne6429329:0}</FilterForums>
+         <SelectAForum>crwdns6429326:0crwdne6429326:0</SelectAForum>
+         <location>crwdns6429327:0crwdne6429327:0</location>
+         <forumId>crwdns6429328:0crwdne6429328:0</forumId>
+         <FilterForums>crwdns6429329:0crwdne6429329:0</FilterForums>
       </label>
    </UICreatePoll>
    <UICreateWiki>
       <label>
-         <title>{crwdns6429330:0}{crwdne6429330:0}</title>
-         <location>{crwdns6429331:0}{crwdne6429331:0}</location>
+         <title>crwdns6429330:0crwdne6429330:0</title>
+         <location>crwdns6429331:0crwdne6429331:0</location>
       </label>
    </UICreateWiki>
    <UICreateEvent>
       <label>
          <Title>#{word.title}</Title>
-         <Choix>{crwdns6429333:0}{crwdne6429333:0}</Choix>
-         <EndEvent>{crwdns6429334:0}{crwdne6429334:0}</EndEvent>
-         <StartEvent>{crwdns6429335:0}{crwdne6429335:0}</StartEvent>
-         <Calendar>{crwdns6429336:0}{crwdne6429336:0}</Calendar>
-         <all-day>{crwdns6429337:0}{crwdne6429337:0}</all-day>
-         <defaultCalendarId>{crwdns6429338:0}{crwdne6429338:0}</defaultCalendarId>
+         <Choix>crwdns6429333:0crwdne6429333:0</Choix>
+         <EndEvent>crwdns6429334:0crwdne6429334:0</EndEvent>
+         <StartEvent>crwdns6429335:0crwdne6429335:0</StartEvent>
+         <Calendar>crwdns6429336:0crwdne6429336:0</Calendar>
+         <all-day>crwdns6429337:0crwdne6429337:0</all-day>
+         <defaultCalendarId>crwdns6429338:0crwdne6429338:0</defaultCalendarId>
       </label>
       <msg>
-         <summary-field-required>{crwdns6429339:0}{crwdne6429339:0}</summary-field-required>
-         <fromDate-format>{crwdns6429340:0}{crwdne6429340:0}</fromDate-format>
-         <toDate-format>{crwdns6429341:0}{crwdne6429341:0}</toDate-format>
-         <logic-required>{crwdns6429342:0}{crwdne6429342:0}</logic-required>
-         <cant-add-event-on-remote-calendar>{crwdns6429343:0}{crwdne6429343:0}</cant-add-event-on-remote-calendar>
+         <summary-field-required>crwdns6429339:0crwdne6429339:0</summary-field-required>
+         <fromDate-format>crwdns6429340:0crwdne6429340:0</fromDate-format>
+         <toDate-format>crwdns6429341:0crwdne6429341:0</toDate-format>
+         <logic-required>crwdns6429342:0crwdne6429342:0</logic-required>
+         <cant-add-event-on-remote-calendar>crwdns6429343:0crwdne6429343:0</cant-add-event-on-remote-calendar>
          <add-successfully>
-            <Event>{crwdns6429344:0}{1}{crwdne6429344:0}</Event>
-            <Task>{crwdns6429345:0}{1}{crwdne6429345:0}</Task>
+            <Event>crwdns6429344:0{1}crwdne6429344:0</Event>
+            <Task>crwdns6429345:0{1}crwdne6429345:0</Task>
          </add-successfully>
-         <add-unsuccessfully>{crwdns6429346:0}{0}{crwdne6429346:0}</add-unsuccessfully>
+         <add-unsuccessfully>crwdns6429346:0{0}crwdne6429346:0</add-unsuccessfully>
       </msg>
       <action>
          <Next>#{word.save}</Next>
@@ -73,15 +73,15 @@
       </action>
    </UICreateEvent>
     <UIUploadFile>
-        <Select>{crwdns6429349:0}{crwdne6429349:0}</Select>
+        <Select>crwdns6429349:0crwdne6429349:0</Select>
         <action>
           <close>#{word.close}</close>
         </action>
     </UIUploadFile>
    <Choix>
       <label>
-         <Event>{crwdns6429350:0}{crwdne6429350:0}</Event>
-         <Task>{crwdns6429351:0}{crwdne6429351:0}</Task>
+         <Event>crwdns6429350:0crwdne6429350:0</Event>
+         <Task>crwdns6429351:0crwdne6429351:0</Task>
       </label>
    </Choix>
 </bundle>
