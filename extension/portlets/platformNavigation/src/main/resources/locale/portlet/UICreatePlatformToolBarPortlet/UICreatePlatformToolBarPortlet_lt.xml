@@ -80,8 +80,8 @@
     </UIUploadFile>
    <Choix>
       <label>
-         <Event>Event</Event>
-         <Task>Task</Task>
+         <Event>Įvykis</Event>
+         <Task>Užduotis</Task>
       </label>
    </Choix>
 </bundle>
