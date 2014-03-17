@@ -52,7 +52,7 @@
          <EndEvent>To</EndEvent>
          <StartEvent>From</StartEvent>
          <Calendar>Select Calendar</Calendar>
-         <all-day>All Day</all-day>
+         <all-day>Visą dieną</all-day>
          <defaultCalendarId>Default</defaultCalendarId>
       </label>
       <msg>
@@ -73,7 +73,7 @@
       </action>
    </UICreateEvent>
     <UIUploadFile>
-        <Select>Select File</Select>
+        <Select>Pasirinkti failą</Select>
         <action>
           <close>#{word.close}</close>
         </action>

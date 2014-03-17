@@ -10,7 +10,7 @@
          <Site>Svetainė</Site>
          <Layout>Redaguoti išdėstymą</Layout>
          <siteLayout>Išdėstymas</siteLayout>
-         <ManagePages>Manage Pages</ManagePages>
+         <ManagePages>Tvarkyti puslapius</ManagePages>
          <GroupSite>Group Site</GroupSite>
          <Properties>#{UISEOToolbarForm.label.seo}</Properties>
          <AddSite>Pridėti svetainę</AddSite>
@@ -28,7 +28,7 @@
       <robots>Robotai:</robots>
       <sitemap>Svetainės žemėlapis:</sitemap>
       <sitemapvisible>Matomas svetainės žemėlapyje</sitemapvisible>
-  <isInherited>Inherited from parent page</isInherited>
+  <isInherited>Paveldėtas iš pagrindinio puslapio</isInherited>
       <priority>Prioritetas:</priority>
       <frequency>Dažnis:</frequency>
       <select-language>Pasirinkite kalbą</select-language>
@@ -49,13 +49,13 @@
     </action>
     <msg>
       <repository-exception>An unexpected error occurred. Cannot save page metadata.</repository-exception>
-      <confirm-delete>Are you sure you want to delete these SEO data?</confirm-delete>
+      <confirm-delete>Ar tikrai norite ištrinti šiuos SEO duomenis?</confirm-delete>
     </msg>
     <title>
     <seo-delete>Ištrinti</seo-delete>
     </title>
 <help> 
-  <priority>Valid values range from 0.0 to 1.0.</priority>
+  <priority>Leistinos reikšmės svyruoja nuo 0,0 iki 1,0.</priority>
   <description>Help searchers: let them know that the following page has a link with what they are looking for.</description>
   <keywords>Most important terms in the page must be separated by a comma.</keywords>  
     </help>  
