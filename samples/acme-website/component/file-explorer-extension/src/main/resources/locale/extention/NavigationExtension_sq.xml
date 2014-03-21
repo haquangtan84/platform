@@ -49,8 +49,8 @@
 <Detail>crwdns6429289:0crwdne6429289:0</Detail>
 </label>
 <action>
-<Save>#{word.save}</Save>
-<Cancel>#{word.cancel}</Cancel>
+<Save>crwdns6710929:0{word.save}crwdne6710929:0</Save>
+<Cancel>crwdns6710900:0{word.cancel}crwdne6710900:0</Cancel>
 </action>
 </UINavigationForm>
 <Visible>

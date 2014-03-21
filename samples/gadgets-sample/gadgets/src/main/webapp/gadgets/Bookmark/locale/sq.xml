@@ -21,11 +21,11 @@
 -->
 <messagebundle>
   <msg name="title">crwdns6429306:0crwdne6429306:0</msg>
-  <msg name="customize">Customize</msg>
-  <msg name="save">#{word.save}</msg>
+  <msg name="customize">crwdns6429307:0crwdne6429307:0</msg>
+  <msg name="save">crwdns6710957:0{word.save}crwdne6710957:0</msg>
   <msg name="add">crwdns6436687:0crwdne6436687:0</msg>
   <msg name="ok">crwdns6436688:0crwdne6436688:0</msg>
-  <msg name="name">Name</msg>
+  <msg name="name">crwdns6429310:0crwdne6429310:0</msg>
   <msg name="url">crwdns6429311:0crwdne6429311:0</msg>
   <msg name="delete">crwdns6436689:0crwdne6436689:0</msg>
   <msg name="edit">crwdns6436690:0crwdne6436690:0</msg>

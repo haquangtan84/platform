@@ -19,8 +19,8 @@
          <RequireSelectForum>crwdns6429319:0crwdne6429319:0</RequireSelectForum>
       </label>
       <action>
-         <Next>#{word.next}</Next>
-         <Cancel>#{word.cancel}</Cancel>
+         <Next>crwdns6710246:0{word.next}crwdne6710246:0</Next>
+         <Cancel>crwdns6710247:0{word.cancel}crwdne6710247:0</Cancel>
       </action>
    </UICreateList>
    <UICreateTopic>
@@ -47,7 +47,7 @@
    </UICreateWiki>
    <UICreateEvent>
       <label>
-         <Title>#{word.title}</Title>
+         <Title>crwdns6710248:0{word.title}crwdne6710248:0</Title>
          <Choix>crwdns6429333:0crwdne6429333:0</Choix>
          <EndEvent>crwdns6429334:0crwdne6429334:0</EndEvent>
          <StartEvent>crwdns6429335:0crwdne6429335:0</StartEvent>
@@ -68,14 +68,14 @@
          <add-unsuccessfully>crwdns6429346:0{0}crwdne6429346:0</add-unsuccessfully>
       </msg>
       <action>
-         <Next>#{word.save}</Next>
-         <Cancel>#{word.cancel}</Cancel>
+         <Next>crwdns6524403:0{word.save}crwdne6524403:0</Next>
+         <Cancel>crwdns6710249:0{word.cancel}crwdne6710249:0</Cancel>
       </action>
    </UICreateEvent>
     <UIUploadFile>
         <Select>crwdns6429349:0crwdne6429349:0</Select>
         <action>
-          <close>#{word.close}</close>
+          <close>crwdns6752610:0{word.close}crwdne6752610:0</close>
         </action>
     </UIUploadFile>
    <Choix>

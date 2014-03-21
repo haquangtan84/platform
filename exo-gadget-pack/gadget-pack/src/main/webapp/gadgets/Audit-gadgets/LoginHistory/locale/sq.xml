@@ -31,7 +31,7 @@
   <msg name="loginHistory.more">crwdns6429226:0crwdne6429226:0</msg>
   <msg name="loginHistory.stats">crwdns6429227:0crwdne6429227:0</msg>
   <msg name="loginHistory.history">crwdns6429228:0crwdne6429228:0</msg>
-  <msg name="loginHistory.global">Global</msg>
+  <msg name="loginHistory.global">crwdns6429229:0crwdne6429229:0</msg>
   <msg name="loginHistory.week">crwdns6429230:0crwdne6429230:0</msg>
   <msg name="loginHistory.lastLoginsView">crwdns6429231:0crwdne6429231:0</msg>
   <msg name="loginHistory.historyView">crwdns6429232:0crwdne6429232:0</msg>
@@ -46,5 +46,5 @@
   <msg name="loginHistory.allUsers">crwdns6429241:0crwdne6429241:0</msg>
   <msg name="loginHistory.unknow">crwdns6429242:0crwdne6429242:0</msg>
   <msg name="loginHistory.next">crwdns6429243:0crwdne6429243:0</msg>
-  <msg name="loginHistory.ago">Ago</msg>
+  <msg name="loginHistory.ago">crwdns6429244:0crwdne6429244:0</msg>
 </messagebundle>

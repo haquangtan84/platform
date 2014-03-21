@@ -12,7 +12,7 @@
          <siteLayout>crwdns6429597:0crwdne6429597:0</siteLayout>
          <ManagePages>crwdns6429598:0crwdne6429598:0</ManagePages>
          <GroupSite>crwdns6429599:0crwdne6429599:0</GroupSite>
-         <Properties>#{UISEOToolbarForm.label.seo}</Properties>
+         <Properties>crwdns6710895:0{UISEOToolbarForm.label.seo}crwdne6710895:0</Properties>
          <AddSite>crwdns6429601:0crwdne6429601:0</AddSite>
       </action>
 <ManageSites>crwdns6429602:0crwdne6429602:0</ManageSites>
@@ -44,8 +44,8 @@
     </label>
  
     <action>
-      <Save>#{word.save}</Save>
-      <Cancel>#{word.cancel}</Cancel>
+      <Save>crwdns6710954:0{word.save}crwdne6710954:0</Save>
+      <Cancel>crwdns6710938:0{word.cancel}crwdne6710938:0</Cancel>
     </action>
     <msg>
       <repository-exception>crwdns6429624:0crwdne6429624:0</repository-exception>
@@ -62,7 +62,7 @@
   </UISEOForm>
   <UISEOPopupWindow>
   <title>
-      <UISEOForm>#{UISEOToolbarForm.title.seo}</UISEOForm>
+      <UISEOForm>crwdns6710896:0{UISEOToolbarForm.title.seo}crwdne6710896:0</UISEOForm>
   </title>
   </UISEOPopupWindow>    
   <UISEOToolbarForm>
