@@ -487,8 +487,7 @@
 				<%/*End form*/%>
         </div>
       </div>
-    	</div>
-    	<div id="platformInfoDiv" data-labelfooter="<%=res.getString("portal.login.Footer")%>" ></div>
+    	</div>   	
     </div>
     
   </body>
